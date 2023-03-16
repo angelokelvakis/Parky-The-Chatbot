@@ -1,0 +1,50 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+NOT (General)
+------------------------
+not right now
+that's not it
+That's not what I meant
+That's not what I was looking for
+That is not what I was looking for
+That's not even close
+That's not close
+That's not what I wanted
+not a chance
+no way
+never mind
+nope
+no thanks
+nah
+not really
+No
+um no
+Not even close
+Not what I want
+Not what I meant
+Not close
+Not really close
+Not really what I wanted
+Not what I wanted
+Not what I was looking for
+Not close to what I wanted
+Not as close
+Not as close to what I wanted
+
+
+
+
+
+<Response>
+No problem. Just let me know if you need something else. I'll be here

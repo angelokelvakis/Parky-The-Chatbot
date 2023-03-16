@@ -1,0 +1,56 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+
+
+
+My Neighborhood
+------------------------
+Whats my neighborhood 
+Where is my neighborhood
+What is my neighborhood again
+Which is my neighborhood
+Which area did I select for my neighborhood
+What area did I set my neighborhood to
+What's the name of my neighborhood
+Tell me what my neighborhood is
+I forgot what I set my neighborhood as
+I forgot my neighborhood
+I forgot what I selected for my neighborhood
+I forgot what I picked for my neighborhood
+Can you please remind me what the name of my neighborhood is
+Can you tell me what my neighborhood is called
+Give me the name of my neighborhood
+Neighborhood
+My neighborhood
+Me neighborhood
+Please list my neighborhood for me
+List my neighborhood
+List my neighborhood for me
+Tell me what I selected as my neighborhood
+Tell me what I picked as my neighborhood
+What did I pick as my neighborhood
+What did I select as my neighborhood
+What did I set my neighborhood as
+What did I choose my neighborhood as 
+Can you tell me what I set my neighborhood to
+Can you tell me what neighborhood I selected
+Can you tell me what neighborhood I chose
+Can you list what neighborhood I selected
+Can you list what neighborhood I chose
+
+
+
+
+
+<Response>
+You picked: $my_neighborhood as your neighborhood
+

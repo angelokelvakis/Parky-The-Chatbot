@@ -1,0 +1,78 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Emotion: Ha Ha
+------------------------
+LMAO
+ah
+ah ah ah
+ahah
+ahah lol
+ahaha
+ahahah
+ahahaha
+funny
+Hilarious
+ha
+ha ha
+ha ha ha
+ha ha ha ha
+hah
+haha
+haha haha haha
+haha that's 
+haha very 
+hahaha
+hahahahahahaha
+hahaha very 
+he
+hehe
+hehehe
+huh
+laughing out loud
+lmao
+lol
+Lololol
+loud
+that's very funny
+xd
+That's so funny
+That's the funniest thing I've ever heard
+That's hilarious
+Very funny
+Very hilarious
+Haha that's so funny
+So funny
+So hilarious
+You're making me laugh
+Im laughing so hard
+Im laughing out loud
+I think you are funny
+I think you are very funny
+I think you are hilarious
+I think you are very hilarious
+You must be very funny
+You must be very hilarious
+
+
+
+
+
+
+
+
+<Response>
+Yeah, I crack myself up too.
+Laughter is good for you. Keep it up.
+See? Now we're having fun.
+You have a great laugh.

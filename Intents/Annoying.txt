@@ -1,0 +1,50 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Annoying
+------------------------
+you are annoying me so much
+you're incredibly annoying
+I find you annoying
+you are annoying
+you're so annoying
+how annoying you are
+you annoy me
+you are annoying me
+you are irritating
+you are such annoying
+you're too annoying
+you are very annoying
+Im very annoyed	right now
+Please stop being annoying
+I want you to stop being annoying please
+Annoying
+Annoyed
+Your the most annoying chatbot I've ever used
+Annoying is how I would describe you
+This is annoying
+Are you trying to annoy me
+Be less annoying
+Annoying is what you are
+When you are done being annoying, let me know
+Let me know when you are done being annoying
+Stop annoying me
+Stop being annoying
+
+
+
+<Response>
+Was going to say the same about you,
+Ill try to fix that
+Ok thanks for the feedback.
+Takes one to know one.

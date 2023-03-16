@@ -1,0 +1,44 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Ready
+------------------------
+are you ready
+are you ready right now
+are you ready today
+are you ready now
+are you ready tonight
+were you ready
+have you been ready
+Can you be ready
+Can you be ready soon
+Can you tell me when you are ready
+Tell me if you are ready
+Tell me if you're ready
+Can you tell me if you are ready
+Tell me when you are ready
+Can you tell me when you are ready
+When are you ready
+Are you ready yet
+Are you going to be ready soon
+Are you ready soon
+Tell me if you are ready soon
+Can you tell me if you are ready soon
+
+
+
+
+
+<Response>
+Always!
+Sure! What can I do for you?

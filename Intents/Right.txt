@@ -1,0 +1,67 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Right
+------------------------
+I know that's right
+I know that is right
+I know that is correct
+I know that is true
+I know that is the truth
+I know you are right
+I know you are correct
+I know you are telling the truth
+it is true
+it's right
+it's the truth
+it's true
+Its correct
+that is correct
+that is right
+that is true
+that is very true
+that's correct
+that's so true
+that's true
+That's right
+That's correct
+true
+Correct
+Right
+what you say is true
+What you say is correct
+What you say is right
+What you say is the truth
+What you're saying is true
+What you're saying is correct
+What you're saying is right
+What you're saying is the truth
+you are correct
+you are right
+you are so right
+You are correct
+You are telling the truth
+You're correct
+you're absolutely right
+you're definitely right
+You're for sure right
+You're so right
+you're not wrong
+you're right about that
+you're telling the truth
+
+
+
+<Response>
+That's my job.
+Of course I am.

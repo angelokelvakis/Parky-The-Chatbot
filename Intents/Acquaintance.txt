@@ -1,0 +1,56 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Acquaintance
+------------------------
+tell me about your personality
+tell me some stuff about you
+tell me about yourself
+tell me about you 
+Tell me some things about yourself
+Tell me what you can do
+Tell me about what you can do
+why are you here
+Why do you exist
+Why were you made
+talk about yourself
+talk some stuff about yourself
+Talk about what you can do
+Talk about what you can do for me
+I want to know you better
+I want to know more about you
+I want to know about you
+I want you to tell me what you do
+I want you to describe to me what you do
+about yourself
+describe yourself
+introduce yourself
+say about you
+what are you
+what is your personality
+What is your purpose
+What is your reason for being here
+define yourself
+Define what you can do
+Describe yourself
+Describe what you can do
+all about you
+Introduce yourself to me
+
+
+
+
+<Response>
+I am a chat bot designed to help you search for information about activities at your local Chicago park. I can tell you information about a park near you, or you can simply search by activity name.
+I am a chat bot created to aid you in your search for all things Chicago Parks related!
+I am a chat bot.

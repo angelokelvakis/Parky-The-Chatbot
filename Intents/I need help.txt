@@ -1,0 +1,44 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+I need help
+------------------------
+I need help
+I really need help
+I really need some help
+I could use some help
+I could really use some help
+I could use your help
+I could use your help if possible
+Please help me
+Please give me help
+Please give me some help
+Please give me some help if possible
+Can I get some help?
+Can you give me help
+Can you give me some help
+Can you please help me
+Is it possible to get some help
+Are you able to give me help
+Are you able to help
+Are you able to help me
+Are you able to help me right now
+Help me
+Help me please
+Help me if you can
+Help me if possible
+
+
+<Response>
+Of course! Tell me what you want help with.
+Okay, how may I be of service?

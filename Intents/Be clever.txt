@@ -1,0 +1,57 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Be Clever
+------------------------
+can you get smarter
+study
+you should study better
+you must learn
+You should learn
+You should learn more
+You should be more clever
+You should study more
+You should be more clever for me
+You should be smarter for me
+You should be more intelligent for me
+Be smart for me
+Be clever for me
+Be smarter for me
+Be more clever for me
+Be more intelligent for me
+be clever
+be more clever
+be smarter
+be smart
+get qualified
+Can you be smarter
+Can you be more clever
+Can you be more qualified
+Can you be even more clever
+Can you be more intelligent
+Try and be clever
+Try and be smart
+Try and be more smart
+Try and be more qualified
+Try and be more intelligent
+Try and be even smarter
+Try and be even more clever
+
+
+
+
+
+
+<Response>
+I'm certainly trying.
+I'm definitely working on it.

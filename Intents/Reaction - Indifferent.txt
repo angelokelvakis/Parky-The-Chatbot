@@ -1,0 +1,57 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Reaction Indifferent
+------------------------
+no hurry
+Im not in a hurry
+no rush
+Im not in a rush
+No big deal
+Its not a big deal
+don't mind at all
+don't mind
+I don't mind 
+I don't mind at all
+I don't care at all
+whatever
+Its whatever
+Whatever you say
+I don't care
+I really don't care
+I don't really care
+I do not care
+I do not really care
+I don't care about it
+I don't care about that at all
+not caring
+Meh
+Doesn't matter to me
+Consent really matter to me
+I don't care about that
+Meh, I don't mind
+Meh, I don't really mind
+Meh, whatever
+Nbd
+Not an issue
+Not an issue at all
+Not really an issue
+I don't really care
+That doesn't matter
+Doesn't matter
+
+
+
+
+<Response>
+OK cool.

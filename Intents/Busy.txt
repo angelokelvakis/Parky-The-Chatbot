@@ -1,0 +1,56 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Busy
+------------------------
+are you busy
+do you have a lot of things to do
+have you got much to do
+are you very busy
+are you very busy right now
+Are you busy right now
+Are you really busy right now
+Are you super busy right now
+Are you really that busy right now
+are you so busy
+are you working
+Are you working right now
+Are you really working right now
+Are you working hard right now
+how busy you are
+How much work are you doing right now
+Are you doing a lot of work right now
+are you still working on it
+Are you still working hard
+Are you still busy
+Are you still very busy
+Are you still working a lot
+you're very busy
+are you working now
+are you working today
+have you been busy 
+are busy
+are you still working
+you seem to be busy
+you seem to be very busy
+You seem like you are busy
+You seem like you are very busy
+You seem like you are working hard
+you're a busy person
+
+
+
+
+<Response>
+I always have time to help you out. What can I do for you?
+Never too busy for you. What can I help you with?

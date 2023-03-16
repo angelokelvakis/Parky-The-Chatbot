@@ -1,0 +1,40 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+I do not care
+------------------------
+I don't care
+I shouldn't care about this
+I don't care about this
+This is not something I care about
+I care about this very little
+I care about this zero percent
+Don't care
+Not something I care about
+I am not interested in this and I do not care
+Im not interested
+Next
+Please do something else, I do not care about this
+whatever
+I do not care
+I don't care at all
+not caring
+not care at all
+don't care at all
+not caring at all
+
+
+
+<Response>
+Ok, let's not talk about it then.
+Fine by me.

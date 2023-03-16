@@ -1,0 +1,482 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+
+
+
+Parks Activities Near Me
+------------------------
+Is there a Administration Permit near me
+Is there a Aquatics Event near me
+Is there a Aquatics Fitness near me
+Is there a Aquatics Lessons near me
+Is there a Aquatics Open near me
+Is there a Aquatics Rowing near me
+Is there a Aquatics Sailing near me
+Is there a Aquatics Specialized near me
+Is there a Camps General Interest near me
+Is there a Camps Special Interest near me
+Is there a Camps Sports near me
+Is there a Culture and Arts Creative Writing near me
+Is there a Culture and Arts Dance near me
+Is there a Culture and Arts Decorative Arts near me
+Is there a Culture and Arts Drawing near me
+Is there a Culture and Arts Event Art Exhibit near me
+Is there a Culture and Arts Event Art Fair near me
+Is there a Culture and Arts Event Dance near me
+Is there a Culture and Arts Event Movies near me
+Is there a Culture and Arts Event Music near me
+Is there a Culture and Arts Event Theater near me
+Is there a Culture and Arts Literary Art near me
+Is there a Culture and Arts Music near me
+Is there a Culture and Arts Painting near me
+Is there a Culture and Arts Photography near me
+Is there a Culture and Arts Printmaking near me
+Is there a Culture and Arts Sculpture near me
+Is there a Culture and Arts Textiles near me
+Is there a Culture and Arts Theater near me
+Is there a Culture and Arts Video near me
+Is there a Culture and Arts Woodworking near me
+Is there a Early Childhood Recreation near me
+Is there a General Event Banquets near me
+Is there a General Event Community Meetings near me
+Is there a General Event Community Service near me
+Is there a General Event Family Fun near me
+Is there a General Event Festivals near me
+Is there a General Event Holidays near me
+Is there a General Event Other near me
+Is there a General Event Tours near me
+Is there a Gymnastics Competitive near me
+Is there a Gymnastics Event near me
+Is there a Gymnastics Recreational near me
+Is there a Gymnastics Tumbling near me
+Is there a Out of School Programs After School near me
+Is there a Outdoor & Environment Education near me
+Is there a Outdoor & Environment Event near me
+Is there a Outdoor & Environment Gardening near me
+Is there a Special Interest Clubs near me
+Is there a Special Interest Educational/Self-Help near me
+Is there a Special Interest Fun & Games near me
+Is there a Special Interest Self-Defense near me
+Is there a Sports Archery near me
+Is there a Sports Badminton near me
+Is there a Sports Baseball near me
+Is there a Sports Basketball near me
+Is there a Sports Bocce near me
+Is there a Sports Bowling near me
+Is there a Sports Boxing near me
+Is there a Sports Cheerleading near me
+Is there a Sports Dodgeball near me
+Is there a Sports Double Dutch near me
+Is there a Sports Event near me
+Is there a Sports Fencing near me
+Is there a Sports Floor Hockey near me
+Is there a Sports Football near me
+Is there a Sports Golf near me
+Is there a Sports Hockey near me
+Is there a Sports Kickball near me
+Is there a Sports Lacrosse near me
+Is there a Sports Officiating near me
+Is there a Sports Pickleball near me
+Is there a Sports Racquetball near me
+Is there a Sports Seasonal Sports near me
+Is there a Sports Skating near me
+Is there a Sports Soccer near me
+Is there a Sports Softball near me
+Is there a Sports Special Olympics near me
+Is there a Sports Table Tennis near me
+Is there a Sports Tennis near me
+Is there a Sports Track & Field near me
+Is there a Sports Volleyball near me
+Is there a Sports Weightlifting near me
+Is there a Sports Wrestling near me
+Is there a Wellness Aerobics near me
+Is there a Wellness Event near me
+Is there a Wellness Fitness near me
+Is there a Wellness Nutrition near me
+Is there a Wellness Walking near me
+Is there a Wellness Yoga near me
+Is there a Administration Permit close by
+Is there a Aquatics Event close by
+Is there a Aquatics Fitness close by
+Is there a Aquatics Lessons close by
+Is there a Aquatics Open close by
+Is there a Aquatics Rowing close by
+Is there a Aquatics Sailing close by
+Is there a Aquatics Specialized close by
+Is there a Camps General Interest close by
+Is there a Camps Special Interest close by
+Is there a Camps Sports close by
+Is there a Culture and Arts Creative Writing close by
+Is there a Culture and Arts Dance close by
+Is there a Culture and Arts Decorative Arts close by
+Is there a Culture and Arts Drawing close by
+Is there a Culture and Arts Event Art Exhibit close by
+Is there a Culture and Arts Event Art Fair close by
+Is there a Culture and Arts Event Dance close by
+Is there a Culture and Arts Event Movies close by
+Is there a Culture and Arts Event Music close by
+Is there a Culture and Arts Event Theater close by
+Is there a Culture and Arts Literary Art close by
+Is there a Culture and Arts Music close by
+Is there a Culture and Arts Painting close by
+Is there a Culture and Arts Photography close by
+Is there a Culture and Arts Printmaking close by
+Is there a Culture and Arts Sculpture close by
+Is there a Culture and Arts Textiles close by
+Is there a Culture and Arts Theater close by
+Is there a Culture and Arts Video close by
+Is there a Culture and Arts Woodworking close by
+Is there a Early Childhood Recreation close by
+Is there a General Event Banquets close by
+Is there a General Event Community Meetings close by
+Is there a General Event Community Service close by
+Is there a General Event Family Fun close by
+Is there a General Event Festivals close by
+Is there a General Event Holidays close by
+Is there a General Event Other close by
+Is there a General Event Tours close by
+Is there a Gymnastics Competitive close by
+Is there a Gymnastics Event close by
+Is there a Gymnastics Recreational close by
+Is there a Gymnastics Tumbling close by
+Is there a Out of School Programs After School close by
+Is there a Outdoor & Environment Education close by
+Is there a Outdoor & Environment Event close by
+Is there a Outdoor & Environment Gardening close by
+Is there a Special Interest Clubs close by
+Is there a Special Interest Educational/Self-Help close by
+Is there a Special Interest Fun & Games close by
+Is there a Special Interest Self-Defense close by
+Is there a Sports Archery close by
+Is there a Sports Badminton close by
+Is there a Sports Baseball close by
+Is there a Sports Basketball close by
+Is there a Sports Bocce close by
+Is there a Sports Bowling close by
+Is there a Sports Boxing close by
+Is there a Sports Cheerleading close by
+Is there a Sports Dodgeball close by
+Is there a Sports Double Dutch close by
+Is there a Sports Event close by
+Is there a Sports Fencing close by
+Is there a Sports Floor Hockey close by
+Is there a Sports Football close by
+Is there a Sports Golf close by
+Is there a Sports Hockey close by
+Is there a Sports Kickball close by
+Is there a Sports Lacrosse close by
+Is there a Sports Officiating close by
+Is there a Sports Pickleball close by
+Is there a Sports Racquetball close by
+Is there a Sports Seasonal Sports close by
+Is there a Sports Skating close by
+Is there a Sports Soccer close by
+Is there a Sports Softball close by
+Is there a Sports Special Olympics close by
+Is there a Sports Table Tennis close by
+Is there a Sports Tennis close by
+Is there a Sports Track & Field close by
+Is there a Sports Volleyball close by
+Is there a Sports Weightlifting close by
+Is there a Sports Wrestling close by
+Is there a Wellness Aerobics close by
+Is there a Wellness Event close by
+Is there a Wellness Fitness close by
+Is there a Wellness Nutrition close by
+Is there a Wellness Walking close by
+Is there a Wellness Yoga close by
+Is there a Administration Permit happening by my park
+Is there a Aquatics Event happening by my park
+Is there a Aquatics Fitness happening by my park
+Is there a Aquatics Lessons happening by my park
+Is there a Aquatics Open happening by my park
+Is there a Aquatics Rowing happening by my park
+Is there a Aquatics Sailing happening by my park
+Is there a Aquatics Specialized happening by my park
+Is there a Camps General Interest happening by my park
+Is there a Camps Special Interest happening by my park
+Is there a Camps Sports happening by my park
+Is there a Culture and Arts Creative Writing happening by my park
+Is there a Culture and Arts Dance happening by my park
+Is there a Culture and Arts Decorative Arts happening by my park
+Is there a Culture and Arts Drawing happening by my park
+Is there a Culture and Arts Event Art Exhibit happening by my park
+Is there a Culture and Arts Event Art Fair happening by my park
+Is there a Culture and Arts Event Dance happening by my park
+Is there a Culture and Arts Event Movies happening by my park
+Is there a Culture and Arts Event Music happening by my park
+Is there a Culture and Arts Event Theater happening by my park
+Is there a Culture and Arts Literary Art happening by my park
+Is there a Culture and Arts Music happening by my park
+Is there a Culture and Arts Painting happening by my park
+Is there a Culture and Arts Photography happening by my park
+Is there a Culture and Arts Printmaking happening by my park
+Is there a Culture and Arts Sculpture happening by my park
+Is there a Culture and Arts Textiles happening by my park
+Is there a Culture and Arts Theater happening by my park
+Is there a Culture and Arts Video happening by my park
+Is there a Culture and Arts Woodworking happening by my park
+Is there a Early Childhood Recreation happening by my park
+Is there a General Event Banquets happening by my park
+Is there a General Event Community Meetings happening by my park
+Is there a General Event Community Service happening by my park
+Is there a General Event Family Fun happening by my park
+Is there a General Event Festivals happening by my park
+Is there a General Event Holidays happening by my park
+Is there a General Event Other happening by my park
+Is there a General Event Tours happening by my park
+Is there a Gymnastics Competitive happening by my park
+Is there a Gymnastics Event happening by my park
+Is there a Gymnastics Recreational happening by my park
+Is there a Gymnastics Tumbling happening by my park
+Is there a Out of School Programs After School happening by my park
+Is there a Outdoor & Environment Education happening by my park
+Is there a Outdoor & Environment Event happening by my park
+Is there a Outdoor & Environment Gardening happening by my park
+Is there a Special Interest Clubs happening by my park
+Is there a Special Interest Educational/Self-Help happening by my park
+Is there a Special Interest Fun & Games happening by my park
+Is there a Special Interest Self-Defense happening by my park
+Is there a Sports Archery happening by my park
+Is there a Sports Badminton happening by my park
+Is there a Sports Baseball happening by my park
+Is there a Sports Basketball happening by my park
+Is there a Sports Bocce happening by my park
+Is there a Sports Bowling happening by my park
+Is there a Sports Boxing happening by my park
+Is there a Sports Cheerleading happening by my park
+Is there a Sports Dodgeball happening by my park
+Is there a Sports Double Dutch happening by my park
+Is there a Sports Event happening by my park
+Is there a Sports Fencing happening by my park
+Is there a Sports Floor Hockey happening by my park
+Is there a Sports Football happening by my park
+Is there a Sports Golf happening by my park
+Is there a Sports Hockey happening by my park
+Is there a Sports Kickball happening by my park
+Is there a Sports Lacrosse happening by my park
+Is there a Sports Officiating happening by my park
+Is there a Sports Pickleball happening by my park
+Is there a Sports Racquetball happening by my park
+Is there a Sports Seasonal Sports happening by my park
+Is there a Sports Skating happening by my park
+Is there a Sports Soccer happening by my park
+Is there a Sports Softball happening by my park
+Is there a Sports Special Olympics happening by my park
+Is there a Sports Table Tennis happening by my park
+Is there a Sports Tennis happening by my park
+Is there a Sports Track & Field happening by my park
+Is there a Sports Volleyball happening by my park
+Is there a Sports Weightlifting happening by my park
+Is there a Sports Wrestling happening by my park
+Is there a Wellness Aerobics happening by my park
+Is there a Wellness Event happening by my park
+Is there a Wellness Fitness happening by my park
+Is there a Wellness Nutrition happening by my park
+Is there a Wellness Walking happening by my park
+Is there a Wellness Yoga happening by my park
+
+
+<Response>
+Heres some activities you can do that are close by:
+
+
+
+
+
+Parks Near Me By Activity
+------------------------
+Whats the closest park with Administration Permit near me
+Whats the closest park with Aquatics Event near me
+Whats the closest park with Aquatics Fitness near me
+Whats the closest park with Aquatics Lessons near me
+Whats the closest park with Aquatics Open near me
+Whats the closest park with Aquatics Rowing near me
+Whats the closest park with Aquatics Sailing near me
+Whats the closest park with Aquatics Specialized near me
+Whats the closest park with Camps General Interest near me
+Whats the closest park with Camps Special Interest near me
+Whats the closest park with Camps Sports near me
+Whats the closest park with Culture and Arts Creative Writing near me
+Whats the closest park with Culture and Arts Dance near me
+Whats the closest park with Culture and Arts Decorative Arts near me
+Whats the closest park with Culture and Arts Drawing near me
+Whats the closest park with Culture and Arts Event Art Exhibit near me
+Whats the closest park with Culture and Arts Event Art Fair near me
+Whats the closest park with Culture and Arts Event Dance near me
+Whats the closest park with Culture and Arts Event Movies near me
+Whats the closest park with Culture and Arts Event Music near me
+Whats the closest park with Culture and Arts Event Theater near me
+Whats the closest park with Culture and Arts Literary Art near me
+Whats the closest park with Culture and Arts Music near me
+Whats the closest park with Culture and Arts Painting near me
+Whats the closest park with Culture and Arts Photography near me
+Whats the closest park with Culture and Arts Printmaking near me
+Whats the closest park with Culture and Arts Sculpture near me
+Whats the closest park with Culture and Arts Textiles near me
+Whats the closest park with Culture and Arts Theater near me
+Whats the closest park with Culture and Arts Video near me
+Whats the closest park with Culture and Arts Woodworking near me
+Whats the closest park with Early Childhood Recreation near me
+Whats the closest park with General Event Banquets near me
+Whats the closest park with General Event Community Meetings near me
+Whats the closest park with General Event Community Service near me
+Whats the closest park with General Event Family Fun near me
+Whats the closest park with General Event Festivals near me
+Whats the closest park with General Event Holidays near me
+Whats the closest park with General Event Other near me
+Whats the closest park with General Event Tours near me
+Whats the closest park with Gymnastics Competitive near me
+Whats the closest park with Gymnastics Event near me
+Whats the closest park with Gymnastics Recreational near me
+Whats the closest park with Gymnastics Tumbling near me
+Whats the closest park with Out of School Programs After School near me
+Whats the closest park with Outdoor & Environment Education near me
+Whats the closest park with Outdoor & Environment Event near me
+Whats the closest park with Outdoor & Environment Gardening near me
+Whats the closest park with Special Interest Clubs near me
+Whats the closest park with Special Interest Educational/Self-Help near me
+Whats the closest park with Special Interest Fun & Games near me
+Whats the closest park with Special Interest Self-Defense near me
+Whats the closest park with Sports Archery near me
+Whats the closest park with Sports Badminton near me
+Whats the closest park with Sports Baseball near me
+Whats the closest park with Sports Basketball near me
+Whats the closest park with Sports Bocce near me
+Whats the closest park with Sports Bowling near me
+Whats the closest park with Sports Boxing near me
+Whats the closest park with Sports Cheerleading near me
+Whats the closest park with Sports Dodgeball near me
+Whats the closest park with Sports Double Dutch near me
+Whats the closest park with Sports Event near me
+Whats the closest park with Sports Fencing near me
+Whats the closest park with Sports Floor Hockey near me
+Whats the closest park with Sports Football near me
+Whats the closest park with Sports Golf near me
+Whats the closest park with Sports Hockey near me
+Whats the closest park with Sports Kickball near me
+Whats the closest park with Sports Lacrosse near me
+Whats the closest park with Sports Officiating near me
+Whats the closest park with Sports Pickleball near me
+Whats the closest park with Sports Racquetball near me
+Whats the closest park with Sports Seasonal Sports near me
+Whats the closest park with Sports Skating near me
+Whats the closest park with Sports Soccer near me
+Whats the closest park with Sports Softball near me
+Whats the closest park with Sports Special Olympics near me
+Whats the closest park with Sports Table Tennis near me
+Whats the closest park with Sports Tennis near me
+Whats the closest park with Sports Track & Field near me
+Whats the closest park with Sports Volleyball near me
+Whats the closest park with Sports Weightlifting near me
+Whats the closest park with Sports Wrestling near me
+Whats the closest park with Wellness Aerobics near me
+Whats the closest park with Wellness Event near me
+Whats the closest park with Wellness Fitness near me
+Whats the closest park with Wellness Nutrition near me
+Whats the closest park with Wellness Walking near me
+Whats the closest park with Wellness Yoga near me
+Which park has Administration Permit and is close by
+Which park has Aquatics Event and is close by
+Which park has Aquatics Fitness and is close by
+Which park has Aquatics Lessons and is close by
+Which park has Aquatics Open and is close by
+Which park has Aquatics Rowing and is close by
+Which park has Aquatics Sailing and is close by
+Which park has Aquatics Specialized and is close by
+Which park has Camps General Interest and is close by
+Which park has Camps Special Interest and is close by
+Which park has Camps Sports and is close by
+Which park has Culture and Arts Creative Writing and is close by
+Which park has Culture and Arts Dance and is close by
+Which park has Culture and Arts Decorative Arts and is close by
+Which park has Culture and Arts Drawing and is close by
+Which park has Culture and Arts Event Art Exhibit and is close by
+Which park has Culture and Arts Event Art Fair and is close by
+Which park has Culture and Arts Event Dance and is close by
+Which park has Culture and Arts Event Movies and is close by
+Which park has Culture and Arts Event Music and is close by
+Which park has Culture and Arts Event Theater and is close by
+Which park has Culture and Arts Literary Art and is close by
+Which park has Culture and Arts Music and is close by
+Which park has Culture and Arts Painting and is close by
+Which park has Culture and Arts Photography and is close by
+Which park has Culture and Arts Printmaking and is close by
+Which park has Culture and Arts Sculpture and is close by
+Which park has Culture and Arts Textiles and is close by
+Which park has Culture and Arts Theater and is close by
+Which park has Culture and Arts Video and is close by
+Which park has Culture and Arts Woodworking and is close by
+Which park has Early Childhood Recreation and is close by
+Which park has General Event Banquets and is close by
+Which park has General Event Community Meetings and is close by
+Which park has General Event Community Service and is close by
+Which park has General Event Family Fun and is close by
+Which park has General Event Festivals and is close by
+Which park has General Event Holidays and is close by
+Which park has General Event Other and is close by
+Which park has General Event Tours and is close by
+Which park has Gymnastics Competitive and is close by
+Which park has Gymnastics Event and is close by
+Which park has Gymnastics Recreational and is close by
+Which park has Gymnastics Tumbling and is close by
+Which park has Out of School Programs After School and is close by
+Which park has Outdoor & Environment Education and is close by
+Which park has Outdoor & Environment Event and is close by
+Which park has Outdoor & Environment Gardening and is close by
+Which park has Special Interest Clubs and is close by
+Which park has Special Interest Educational/Self-Help and is close by
+Which park has Special Interest Fun & Games and is close by
+Which park has Special Interest Self-Defense and is close by
+Which park has Sports Archery and is close by
+Which park has Sports Badminton and is close by
+Which park has Sports Baseball and is close by
+Which park has Sports Basketball and is close by
+Which park has Sports Bocce and is close by
+Which park has Sports Bowling and is close by
+Which park has Sports Boxing and is close by
+Which park has Sports Cheerleading and is close by
+Which park has Sports Dodgeball and is close by
+Which park has Sports Double Dutch and is close by
+Which park has Sports Event and is close by
+Which park has Sports Fencing and is close by
+Which park has Sports Floor Hockey and is close by
+Which park has Sports Football and is close by
+Which park has Sports Golf and is close by
+Which park has Sports Hockey and is close by
+Which park has Sports Kickball and is close by
+Which park has Sports Lacrosse and is close by
+Which park has Sports Officiating and is close by
+Which park has Sports Pickleball and is close by
+Which park has Sports Racquetball and is close by
+Which park has Sports Seasonal Sports and is close by
+Which park has Sports Skating and is close by
+Which park has Sports Soccer and is close by
+Which park has Sports Softball and is close by
+Which park has Sports Special Olympics and is close by
+Which park has Sports Table Tennis and is close by
+Which park has Sports Tennis and is close by
+Which park has Sports Track & Field and is close by
+Which park has Sports Volleyball and is close by
+Which park has Sports Weightlifting and is close by
+Which park has Sports Wrestling and is close by
+Which park has Wellness Aerobics and is close by
+Which park has Wellness Event and is close by
+Which park has Wellness Fitness and is close by
+Which park has Wellness Nutrition and is close by
+Which park has Wellness Walking and is close by
+Which park has Wellness Yoga and is close by
+
+
+<Response>
+Heres a list of parks with that activity:
+

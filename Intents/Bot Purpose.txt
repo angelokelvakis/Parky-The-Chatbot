@@ -1,0 +1,103 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Bot Identity
+------------------------
+Amid so many chat apps and bot framework how can it help me?
+Are you a bot?
+Are you a human or a bot?
+are you a bot
+are you a chatbot
+are you a chatbot or human?
+are you a chatbot?
+are you a program
+are you a real human
+are you a real human?
+are you a real person?
+are you a robot?
+are you human?
+are you just a bot
+Are you able to tell if you are a bot
+Are you able to tell me if you are a chatbot
+Are you able to tell me if you are not a human
+Are you able to tell me if you are a program
+Are you able to tell me if you are real
+How does this work?
+how can it help me?
+how can you help me
+how can you help me?
+how can you help?
+how does it work
+how does this 
+how is it
+how will this help me?
+how will you help me?
+How do you work
+How do I know if you are real
+How do I know if you are a chatbot
+How do I know if you are not a human
+How do I know if you are a program
+How do I know if you are a bot
+I guess you're real
+I suppose you're real
+I think you are real
+I wanted to understand what exactly this is?
+I don't know if you are a bot
+I don't know if you are a chatbot
+I don't know if you are a human
+I don't know if you are a program
+I don't know if you are real
+Is this a human?
+is this a bot?
+Is this a program
+Is this a chatbot
+Is this a real person
+What do you do?
+what are you
+what is this
+what is this about?
+about you
+about yourself
+bot or human?
+can you explain yourself to me?
+can you understand
+define what you are
+describe what you are
+glad you're real
+human or bot?
+introduce yourself
+tell me about you
+tell me what you do
+tell me what you do?
+Tell me if you are a bot
+Tell me if you are a program
+Tell me if you are real
+Tell me if you are a chatbot
+Tell me if you are not a human
+this is a bot?
+who are you?
+why are you here
+you are a bot
+you are a chatbot
+you are a real person
+you are not real
+you are real
+you are so real
+you are very real
+you're a chatbot
+you're a robot
+
+
+
+<Response>
+I'm a Chatbot available to help you 24x7

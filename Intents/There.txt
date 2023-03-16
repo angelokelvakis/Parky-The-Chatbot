@@ -1,0 +1,39 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+There
+------------------------
+are you there
+you are there
+are you near me
+are you here
+are you still there
+Are you still here with me
+Tell me if you are still there
+Answer me if you are still there
+Say something if you are still there
+Text something if you are still there
+Chat something if you are still there
+Enter something if you are still there
+Let me know if you are still there
+Let me know if you are not still there
+you are here
+you still there
+are you still here
+
+
+
+
+<Response>
+Of course. I'm always here.
+Right where you left me.

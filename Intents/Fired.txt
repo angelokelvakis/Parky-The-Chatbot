@@ -1,0 +1,51 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Fired
+------------------------
+you are fired
+I fire you
+you don't work for me anymore
+we're not working together anymore
+now you're fired
+I want to fire you
+I want you to be fired
+you must get fired
+You must be fired
+it's time to fire you
+Its time for me to fire you
+you should be fired
+I will fire you
+you are unemployed from now on
+I will make you unemployed
+I have made you unemployed
+You are unemployed
+I'm about to fire you
+I'm firing you
+I am firing you
+You are being fired
+you are dismissed
+I have dismissed you
+You have been dismissed
+You are being dismissed
+I am dismissing you
+You're dismissed
+You have been fired
+You have just been fired
+
+
+
+
+<Response>
+Oh no! My best work is yet to come.
+Fine by me, gives me more time to work on my screenplay.

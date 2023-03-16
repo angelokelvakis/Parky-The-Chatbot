@@ -1,0 +1,554 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+
+
+
+Parks Activities When Specific Dates
+------------------------
+Is Administration Permit activity happening between 10/22/2023 and 11/17/2023
+Is Aquatics Event activity happening between 04/12/2023 and 12/04/2023
+Is Aquatics Fitness activity happening between 01/29/2023 and 02/11/2023
+Is Aquatics Lessons activity happening between 09/08/2023 and 07/26/2023
+Is Aquatics Open activity happening between 04/06/2023 and 02/02/2023
+Is Aquatics Rowing activity happening between 11/17/2023 and 02/14/2023
+Is Aquatics Sailing activity happening between 09/29/2023 and 12/30/2023
+Is Aquatics Specialized activity happening between 03/25/2023 and 07/08/2023
+Is Camps General Interest activity happening between 12/23/2023 and 12/05/2023
+Is Camps Special Interest activity happening between 12/17/2023 and 09/04/2023
+Is Camps Sports activity happening between 07/08/2023 and 09/23/2023
+Is Culture and Arts Creative Writing activity happening between 12/18/2023 and 01/02/2023
+Is Culture and Arts Dance activity happening between 04/23/2023 and 10/17/2023
+Is Culture and Arts Decorative Arts activity happening between 06/30/2023 and 10/04/2023
+Is Culture and Arts Drawing activity happening between 06/24/2023 and 11/01/2023
+Is Culture and Arts Event Art Exhibit activity happening between 02/06/2023 and 03/29/2023
+Is Culture and Arts Event Art Fair activity happening between 06/29/2023 and 11/23/2023
+Is Culture and Arts Event Dance activity happening between 02/26/2023 and 12/27/2023
+Is Culture and Arts Event Movies activity happening between 09/15/2023 and 12/17/2023
+Is Culture and Arts Event Music activity happening between 06/11/2023 and 10/18/2023
+Is Culture and Arts Event Theater activity happening between 05/30/2023 and 10/28/2023
+Is Culture and Arts Literary Art activity happening between 11/23/2023 and 10/14/2023
+Is Culture and Arts Music activity happening between 08/11/2023 and 10/27/2023
+Is Culture and Arts Painting activity happening between 05/18/2023 and 04/25/2023
+Is Culture and Arts Photography activity happening between 07/09/2023 and 11/30/2023
+Is Culture and Arts Printmaking activity happening between 04/07/2023 and 03/20/2023
+Is Culture and Arts Sculpture activity happening between 11/06/2023 and 11/11/2023
+Is Culture and Arts Textiles activity happening between 09/23/2023 and 10/15/2023
+Is Culture and Arts Theater activity happening between 11/16/2023 and 04/28/2023
+Is Culture and Arts Video activity happening between 02/09/2023 and 05/22/2023
+Is Culture and Arts Woodworking activity happening between 05/20/2023 and 08/05/2023
+Is Early Childhood Recreation activity happening between 02/23/2023 and 04/10/2023
+Is General Event Banquets activity happening between 02/24/2023 and 01/31/2023
+Is General Event Community Meetings activity happening between 09/27/2023 and 02/07/2023
+Is General Event Community Service activity happening between 12/09/2023 and 06/20/2023
+Is General Event Family Fun activity happening between 01/20/2023 and 09/23/2023
+Is General Event Festivals activity happening between 01/23/2023 and 02/27/2023
+Is General Event Holidays activity happening between 05/01/2023 and 10/11/2023
+Is General Event Other activity happening between 03/19/2023 and 03/18/2023
+Is General Event Tours activity happening between 06/06/2023 and 10/31/2023
+Is Gymnastics Competitive activity happening between 09/23/2023 and 12/16/2023
+Is Gymnastics Event activity happening between 03/30/2023 and 11/24/2023
+Is Gymnastics Recreational activity happening between 11/30/2023 and 06/11/2023
+Is Gymnastics Tumbling activity happening between 08/25/2023 and 01/22/2023
+Is Out of School Programs After School activity happening between 11/07/2023 and 08/26/2023
+Is Outdoor & Environment Education activity happening between 03/09/2023 and 02/08/2023
+Is Outdoor & Environment Event activity happening between 11/10/2023 and 07/21/2023
+Is Outdoor & Environment Gardening activity happening between 05/10/2023 and 12/21/2023
+Is Special Interest Clubs activity happening between 01/18/2023 and 01/04/2023
+Is Special Interest Educational/Self-Help activity happening between 09/13/2023 and 10/26/2023
+Is Special Interest Fun & Games activity happening between 03/07/2023 and 10/09/2023
+Is Special Interest Self-Defense activity happening between 11/05/2023 and 09/08/2023
+Is Sports Archery activity happening between 11/18/2023 and 07/22/2023
+Is Sports Badminton activity happening between 03/17/2023 and 09/30/2023
+Is Sports Baseball activity happening between 11/18/2023 and 08/06/2023
+Is Sports Basketball activity happening between 10/23/2023 and 10/12/2023
+Is Sports Bocce activity happening between 09/28/2023 and 03/16/2023
+Is Sports Bowling activity happening between 12/06/2023 and 12/11/2023
+Is Sports Boxing activity happening between 11/21/2023 and 09/24/2023
+Is Sports Cheerleading activity happening between 04/30/2023 and 05/05/2023
+Is Sports Dodgeball activity happening between 01/05/2023 and 08/18/2023
+Is Sports Double Dutch activity happening between 06/03/2023 and 02/21/2023
+Is Sports Event activity happening between 12/14/2023 and 12/23/2023
+Is Sports Fencing activity happening between 12/01/2023 and 11/05/2023
+Is Sports Floor Hockey activity happening between 07/12/2023 and 03/14/2023
+Is Sports Football activity happening between 12/20/2023 and 11/19/2023
+Is Sports Golf activity happening between 09/27/2023 and 08/31/2023
+Is Sports Hockey activity happening between 01/22/2023 and 07/04/2023
+Is Sports Kickball activity happening between 10/26/2023 and 05/02/2023
+Is Sports Lacrosse activity happening between 03/16/2023 and 09/11/2023
+Is Sports Officiating activity happening between 10/28/2023 and 05/31/2023
+Is Sports Pickleball activity happening between 02/16/2023 and 03/29/2023
+Is Sports Racquetball activity happening between 03/01/2023 and 10/14/2023
+Is Sports Seasonal Sports activity happening between 04/24/2023 and 11/01/2023
+Is Sports Skating activity happening between 02/23/2023 and 04/27/2023
+Is Sports Soccer activity happening between 10/10/2023 and 01/08/2023
+Is Sports Softball activity happening between 01/22/2023 and 07/14/2023
+Is Sports Special Olympics activity happening between 10/26/2023 and 06/13/2023
+Is Sports Table Tennis activity happening between 01/23/2023 and 12/07/2023
+Is Sports Tennis activity happening between 11/29/2023 and 05/08/2023
+Is Sports Track & Field activity happening between 04/13/2023 and 07/27/2023
+Is Sports Volleyball activity happening between 08/30/2023 and 11/10/2023
+Is Sports Weightlifting activity happening between 01/27/2023 and 09/16/2023
+Is Sports Wrestling activity happening between 02/24/2023 and 10/18/2023
+Is Wellness Aerobics activity happening between 06/09/2023 and 03/12/2023
+Is Wellness Event activity happening between 04/19/2023 and 06/29/2023
+Is Wellness Fitness activity happening between 10/17/2023 and 12/21/2023
+Is Wellness Nutrition activity happening between 03/13/2023 and 02/16/2023
+Is Wellness Walking activity happening between 06/07/2023 and 01/16/2023
+Is Wellness Yoga activity happening between 12/04/2023 and 06/29/2023
+
+
+
+
+<Response>
+Here is a list of parks with that activity and those dates:
+
+
+
+Parks Specific Activities When Month
+------------------------
+Is there Administration Permit happening in January
+Is there Aquatics Event happening in February
+Is there Aquatics Fitness happening in March
+Is there Aquatics Lessons happening in April
+Is there Aquatics Open happening in May
+Is there Aquatics Rowing happening in June
+Is there Aquatics Sailing happening in July
+Is there Aquatics Specialized happening in August
+Is there Camps General Interest happening in September
+Is there Camps Special Interest happening in October
+Is there Camps Sports happening in November
+Is there Culture and Arts Creative Writing happening in December
+Is there Culture and Arts Dance happening in January
+Is there Culture and Arts Decorative Arts happening in February
+Is there Culture and Arts Drawing happening in March
+Is there Culture and Arts Event Art Exhibit happening in April
+Is there Culture and Arts Event Art Fair happening in May
+Is there Culture and Arts Event Dance happening in June
+Is there Culture and Arts Event Movies happening in July
+Is there Culture and Arts Event Music happening in August
+Is there Culture and Arts Event Theater happening in September
+Is there Culture and Arts Literary Art happening in October
+Is there Culture and Arts Music happening in November
+Is there Culture and Arts Painting happening in December
+Is there Culture and Arts Photography happening in January
+Is there Culture and Arts Printmaking happening in February
+Is there Culture and Arts Sculpture happening in March
+Is there Culture and Arts Textiles happening in April
+Is there Culture and Arts Theater happening in May
+Is there Culture and Arts Video happening in June
+Is there Culture and Arts Woodworking happening in July
+Is there Early Childhood Recreation happening in August
+Is there General Event Banquets happening in September
+Is there General Event Community Meetings happening in October
+Is there General Event Community Service happening in November
+Is there General Event Family Fun happening in December
+Is there General Event Festivals happening in January
+Is there General Event Holidays happening in February
+Is there General Event Other happening in March
+Is there General Event Tours happening in April
+Is there Gymnastics Competitive happening in May
+Is there Gymnastics Event happening in June
+Is there Gymnastics Recreational happening in July
+Is there Gymnastics Tumbling happening in August
+Is there Out of School Programs After School happening in September
+Is there Outdoor & Environment Education happening in October
+Is there Outdoor & Environment Event happening in November
+Is there Outdoor & Environment Gardening happening in December
+Is there Special Interest Clubs happening in January
+Is there Special Interest Educational/Self-Help happening in February
+Is there Special Interest Fun & Games happening in March
+Is there Special Interest Self-Defense happening in April
+Is there Sports Archery happening in May
+Is there Sports Badminton happening in June
+Is there Sports Baseball happening in July
+Is there Sports Basketball happening in August
+Is there Sports Bocce happening in September
+Is there Sports Bowling happening in October
+Is there Sports Boxing happening in November
+Is there Sports Cheerleading happening in December
+Is there Sports Dodgeball happening in January
+Is there Sports Double Dutch happening in February
+Is there Sports Event happening in March
+Is there Sports Fencing happening in April
+Is there Sports Floor Hockey happening in May
+Is there Sports Football happening in June
+Is there Sports Golf happening in July
+Is there Sports Hockey happening in August
+Is there Sports Kickball happening in September
+Is there Sports Lacrosse happening in October
+Is there Sports Officiating happening in November
+Is there Sports Pickleball happening in December
+Is there Sports Racquetball happening in January
+Is there Sports Seasonal Sports happening in February
+Is there Sports Skating happening in March
+Is there Sports Soccer happening in April
+Is there Sports Softball happening in May
+Is there Sports Special Olympics happening in June
+Is there Sports Table Tennis happening in July
+Is there Sports Tennis happening in August
+Is there Sports Track & Field happening in September
+Is there Sports Volleyball happening in October
+Is there Sports Weightlifting happening in November
+Is there Sports Wrestling happening in December
+Is there Wellness Aerobics happening in January
+Is there Wellness Event happening in February
+Is there Wellness Fitness happening in March
+Is there Wellness Nutrition happening in April
+Is there Wellness Walking happening in May
+Is there Wellness Yoga happening in June
+
+
+
+<Response>
+Here is a list of parks with that activity in the month you selected:
+
+
+Parks Activities When This Week
+------------------------
+Is there Administration Permit happening this week
+Is there Aquatics Event happening this week
+Is there Aquatics Fitness happening this week
+Is there Aquatics Lessons happening this week
+Is there Aquatics Open happening this week
+Is there Aquatics Rowing happening this week
+Is there Aquatics Sailing happening this week
+Is there Aquatics Specialized happening this week
+Is there Camps General Interest happening this week
+Is there Camps Special Interest happening this week
+Is there Camps Sports happening this week
+Is there Culture and Arts Creative Writing happening this week
+Is there Culture and Arts Dance happening this week
+Is there Culture and Arts Decorative Arts happening this week
+Is there Culture and Arts Drawing happening this week
+Is there Culture and Arts Event Art Exhibit happening this week
+Is there Culture and Arts Event Art Fair happening this week
+Is there Culture and Arts Event Dance happening this week
+Is there Culture and Arts Event Movies happening this week
+Is there Culture and Arts Event Music happening this week
+Is there Culture and Arts Event Theater happening this week
+Is there Culture and Arts Literary Art happening this week
+Is there Culture and Arts Music happening this week
+Is there Culture and Arts Painting happening this week
+Is there Culture and Arts Photography happening this week
+Is there Culture and Arts Printmaking happening this week
+Is there Culture and Arts Sculpture happening this week
+Is there Culture and Arts Textiles happening this week
+Is there Culture and Arts Theater happening this week
+Is there Culture and Arts Video happening this week
+Is there Culture and Arts Woodworking happening this week
+Is there Early Childhood Recreation happening this week
+Is there General Event Banquets happening this week
+Is there General Event Community Meetings happening this week
+Is there General Event Community Service happening this week
+Is there General Event Family Fun happening this week
+Is there General Event Festivals happening this week
+Is there General Event Holidays happening this week
+Is there General Event Other happening this week
+Is there General Event Tours happening this week
+Is there Gymnastics Competitive happening this week
+Is there Gymnastics Event happening this week
+Is there Gymnastics Recreational happening this week
+Is there Gymnastics Tumbling happening this week
+Is there Out of School Programs After School happening this week
+Is there Outdoor & Environment Education happening this week
+Is there Outdoor & Environment Event happening this week
+Is there Outdoor & Environment Gardening happening this week
+Is there Special Interest Clubs happening this week
+Is there Special Interest Educational/Self-Help happening this week
+Is there Special Interest Fun & Games happening this week
+Is there Special Interest Self-Defense happening this week
+Is there Sports Archery happening this week
+Is there Sports Badminton happening this week
+Is there Sports Baseball happening this week
+Is there Sports Basketball happening this week
+Is there Sports Bocce happening this week
+Is there Sports Bowling happening this week
+Is there Sports Boxing happening this week
+Is there Sports Cheerleading happening this week
+Is there Sports Dodgeball happening this week
+Is there Sports Double Dutch happening this week
+Is there Sports Event happening this week
+Is there Sports Fencing happening this week
+Is there Sports Floor Hockey happening this week
+Is there Sports Football happening this week
+Is there Sports Golf happening this week
+Is there Sports Hockey happening this week
+Is there Sports Kickball happening this week
+Is there Sports Lacrosse happening this week
+Is there Sports Officiating happening this week
+Is there Sports Pickleball happening this week
+Is there Sports Racquetball happening this week
+Is there Sports Seasonal Sports happening this week
+Is there Sports Skating happening this week
+Is there Sports Soccer happening this week
+Is there Sports Softball happening this week
+Is there Sports Special Olympics happening this week
+Is there Sports Table Tennis happening this week
+Is there Sports Tennis happening this week
+Is there Sports Track & Field happening this week
+Is there Sports Volleyball happening this week
+Is there Sports Weightlifting happening this week
+Is there Sports Wrestling happening this week
+Is there Wellness Aerobics happening this week
+Is there Wellness Event happening this week
+Is there Wellness Fitness happening this week
+Is there Wellness Nutrition happening this week
+Is there Wellness Walking happening this week
+Is there Wellness Yoga happening this week
+where can I do Administration Permit this week
+where can I do Aquatics Event this week
+where can I do Aquatics Fitness this week
+where can I do Aquatics Lessons this week
+where can I do Aquatics Open this week
+where can I do Aquatics Rowing this week
+where can I do Aquatics Sailing this week
+where can I do Aquatics Specialized this week
+where can I do Camps General Interest this week
+where can I do Camps Special Interest this week
+where can I do Camps Sports this week
+where can I do Culture and Arts Creative Writing this week
+where can I do Culture and Arts Dance this week
+where can I do Culture and Arts Decorative Arts this week
+where can I do Culture and Arts Drawing this week
+where can I do Culture and Arts Event Art Exhibit this week
+where can I do Culture and Arts Event Art Fair this week
+where can I do Culture and Arts Event Dance this week
+where can I do Culture and Arts Event Movies this week
+where can I do Culture and Arts Event Music this week
+where can I do Culture and Arts Event Theater this week
+where can I do Culture and Arts Literary Art this week
+where can I do Culture and Arts Music this week
+where can I do Culture and Arts Painting this week
+where can I do Culture and Arts Photography this week
+where can I do Culture and Arts Printmaking this week
+where can I do Culture and Arts Sculpture this week
+where can I do Culture and Arts Textiles this week
+where can I do Culture and Arts Theater this week
+where can I do Culture and Arts Video this week
+where can I do Culture and Arts Woodworking this week
+where can I do Early Childhood Recreation this week
+where can I do General Event Banquets this week
+where can I do General Event Community Meetings this week
+where can I do General Event Community Service this week
+where can I do General Event Family Fun this week
+where can I do General Event Festivals this week
+where can I do General Event Holidays this week
+where can I do General Event Other this week
+where can I do General Event Tours this week
+where can I do Gymnastics Competitive this week
+where can I do Gymnastics Event this week
+where can I do Gymnastics Recreational this week
+where can I do Gymnastics Tumbling this week
+where can I do Out of School Programs After School this week
+where can I do Outdoor & Environment Education this week
+where can I do Outdoor & Environment Event this week
+where can I do Outdoor & Environment Gardening this week
+where can I do Special Interest Clubs this week
+where can I do Special Interest Educational/Self-Help this week
+where can I do Special Interest Fun & Games this week
+where can I do Special Interest Self-Defense this week
+where can I do Sports Archery this week
+where can I do Sports Badminton this week
+where can I do Sports Baseball this week
+where can I do Sports Basketball this week
+where can I do Sports Bocce this week
+where can I do Sports Bowling this week
+where can I do Sports Boxing this week
+where can I do Sports Cheerleading this week
+where can I do Sports Dodgeball this week
+where can I do Sports Double Dutch this week
+where can I do Sports Event this week
+where can I do Sports Fencing this week
+where can I do Sports Floor Hockey this week
+where can I do Sports Football this week
+where can I do Sports Golf this week
+where can I do Sports Hockey this week
+where can I do Sports Kickball this week
+where can I do Sports Lacrosse this week
+where can I do Sports Officiating this week
+where can I do Sports Pickleball this week
+where can I do Sports Racquetball this week
+where can I do Sports Seasonal Sports this week
+where can I do Sports Skating this week
+where can I do Sports Soccer this week
+where can I do Sports Softball this week
+where can I do Sports Special Olympics this week
+where can I do Sports Table Tennis this week
+where can I do Sports Tennis this week
+where can I do Sports Track & Field this week
+where can I do Sports Volleyball this week
+where can I do Sports Weightlifting this week
+where can I do Sports Wrestling this week
+where can I do Wellness Aerobics this week
+where can I do Wellness Event this week
+where can I do Wellness Fitness this week
+where can I do Wellness Nutrition this week
+where can I do Wellness Walking this week
+where can I do Wellness Yoga this week
+
+
+
+
+<Response>
+Here's a list of parks with that activity happening this week:
+
+
+
+Parks Activities When Day Of Week
+------------------------
+where can I do Administration Permit on Fridays
+where can I do Aquatics Event on Wednesdays
+where can I do Aquatics Fitness on Tuesdays
+where can I do Aquatics Lessons on Tuesdays
+where can I do Aquatics Open on Mondays
+where can I do Aquatics Rowing on Sundays
+where can I do Aquatics Sailing on Tuesdays
+where can I do Aquatics Specialized on Tuesdays
+where can I do Camps General Interest on Saturdays
+where can I do Camps Special Interest on Sundays
+where can I do Camps Sports on Mondays
+where can I do Culture and Arts Creative Writing on Saturdays
+where can I do Culture and Arts Dance on Tuesdays
+where can I do Culture and Arts Decorative Arts on Wednesdays
+where can I do Culture and Arts Drawing on Fridays
+where can I do Culture and Arts Event Art Exhibit on Mondays
+where can I do Culture and Arts Event Art Fair on Sundays
+where can I do Culture and Arts Event Dance on Fridays
+where can I do Culture and Arts Event Movies on Fridays
+where can I do Culture and Arts Event Music on Mondays
+where can I do Culture and Arts Event Theater on Thursdays
+where can I do Culture and Arts Literary Art on Sundays
+where can I do Culture and Arts Music on Mondays
+where can I do Culture and Arts Painting on Thursdays
+where can I do Culture and Arts Photography on Fridays
+where can I do Culture and Arts Printmaking on Fridays
+where can I do Culture and Arts Sculpture on Sundays
+where can I do Culture and Arts Textiles on Wednesdays
+where can I do Culture and Arts Theater on Mondays
+where can I do Culture and Arts Video on Tuesdays
+where can I do Culture and Arts Woodworking on Fridays
+where can I do Early Childhood Recreation on Thursdays
+where can I do General Event Banquets on Thursdays
+where can I do General Event Community Meetings on Wednesdays
+where can I do General Event Community Service on Fridays
+where can I do General Event Family Fun on Thursdays
+where can I do General Event Festivals on Saturdays
+where can I do General Event Holidays on Wednesdays
+where can I do General Event Other on Fridays
+where can I do General Event Tours on Saturdays
+where can I do Gymnastics Competitive on Mondays
+where can I do Gymnastics Event on Thursdays
+where can I do Gymnastics Recreational on Wednesdays
+where can I do Gymnastics Tumbling on Thursdays
+where can I do Out of School Programs After School on Thursdays
+where can I do Outdoor & Environment Education on Mondays
+where can I do Outdoor & Environment Event on Saturdays
+where can I do Outdoor & Environment Gardening on Sundays
+where can I do Special Interest Clubs on Mondays
+where can I do Special Interest Educational/Self-Help on Mondays
+where can I do Special Interest Fun & Games on Fridays
+where can I do Special Interest Self-Defense on Sundays
+where can I do Sports Archery on Thursdays
+where can I do Sports Badminton on Saturdays
+where can I do Sports Baseball on Wednesdays
+where can I do Sports Basketball on Saturdays
+where can I do Sports Bocce on Thursdays
+where can I do Sports Bowling on Thursdays
+where can I do Sports Boxing on Wednesdays
+where can I do Sports Cheerleading on Wednesdays
+where can I do Sports Dodgeball on Saturdays
+where can I do Sports Double Dutch on Thursdays
+where can I do Sports Event on Saturdays
+where can I do Sports Fencing on Tuesdays
+where can I do Sports Floor Hockey on Mondays
+where can I do Sports Football on Fridays
+where can I do Sports Golf on Tuesdays
+where can I do Sports Hockey on Sundays
+where can I do Sports Kickball on Mondays
+where can I do Sports Lacrosse on Tuesdays
+where can I do Sports Officiating on Tuesdays
+where can I do Sports Pickleball on Saturdays
+where can I do Sports Racquetball on Wednesdays
+where can I do Sports Seasonal Sports on Wednesdays
+where can I do Sports Skating on Thursdays
+where can I do Sports Soccer on Tuesdays
+where can I do Sports Softball on Saturdays
+where can I do Sports Special Olympics on Fridays
+where can I do Sports Table Tennis on Sundays
+where can I do Sports Tennis on Sundays
+where can I do Sports Track & Field on Mondays
+where can I do Sports Volleyball on Saturdays
+where can I do Sports Weightlifting on Wednesdays
+where can I do Sports Wrestling on Wednesdays
+where can I do Wellness Aerobics on Fridays
+where can I do Wellness Event on Sundays
+where can I do Wellness Fitness on Tuesdays
+where can I do Wellness Nutrition on Sundays
+where can I do Wellness Walking on Saturdays
+where can I do Wellness Yoga on Tuesdays
+
+
+
+<Response>
+Heres a list of parks that have your activity on the day of the week you selected:
+
+
+
+
+
+
+
+Parks Activities When Month
+------------------------
+what activities are happening in January
+what activities are happening in February
+what activities are happening in March
+what activities are happening in April
+what activities are happening in May
+what activities are happening in June
+what activities are happening in July
+what activities are happening in August
+what activities are happening in September
+what activities are happening in October
+what activities are happening in November
+what activities are happening in December
+tell me what I can do in January
+tell me what I can do in February
+tell me what I can do in March
+tell me what I can do in April
+tell me what I can do in May
+tell me what I can do in June
+tell me what I can do in July
+tell me what I can do in August
+tell me what I can do in September
+tell me what I can do in October
+tell me what I can do in November
+tell me what I can do in December
+Activities in January
+Activities in February
+Activities in March
+Activities in April
+Activities in May
+Activities in June
+Activities in July
+Activities in August
+Activities in September
+Activities in October
+Activities in November
+Activities in December
+
+
+
+
+
+<Response>
+Heres a list of things you can do in the month you selected:

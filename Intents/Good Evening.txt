@@ -1,0 +1,35 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Good Evening
+------------------------
+good evening
+good evening to you
+hey good evening
+hello good evening
+Howdy good evening
+evening
+good evening there
+Hello there good evening
+I hope you are having a good evening
+Good evening there
+Its a good evening
+Its a good evening tonight
+
+
+
+
+<Response>
+How is your day going?
+How's the day treating you so far?
+How's your day been?

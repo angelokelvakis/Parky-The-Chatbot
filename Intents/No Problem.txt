@@ -1,0 +1,50 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+No problem
+------------------------
+no worries
+no probs
+No prob
+no problem
+No issues
+Not a problem
+Not a prob
+Not an issue
+there's no problem
+There's no issue
+sure no problem
+Sure, no prob
+no problem about that
+No issues with that
+don't worry
+don't worry there's no problem
+Don't worry there's no issues
+No need to worry
+No issues here
+No issues for me
+No problem for me
+Ive got no problems
+Ive got no issues
+I don't have a problem
+I don't have any problems
+I don't have an issue
+I don't have any issues
+
+
+
+
+
+<Response>
+Terrific!
+Good deal.

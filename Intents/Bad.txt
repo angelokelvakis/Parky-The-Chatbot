@@ -1,0 +1,166 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Bad
+------------------------
+I'm afraid 
+Im very afraid
+Im so afraid
+You're making me feel afraid
+You are making me feel afraid
+abysmal
+This is abysmal
+Your responses are abysmal
+That response was abysmal
+This response is abysmal
+Very abysmal
+Absolutely abysmal
+Your response was abysmal
+Your answer was abysmal
+What you are capable of is abysmal
+bad
+Very bad
+Your response was bad
+Your answer was very bad
+Your answer was bad
+You are bad
+You are very bad
+You are being bad
+You are really bad
+That was bad
+This is bad
+These responses are bad
+These answers are bad
+What you are saying is bad
+What you said was bad
+What you responded with is bad
+What a bad response
+What a bad answer
+bad girl
+bad idea
+bad very 
+horrible
+That was horrible
+That was so horrible
+That response was horrible
+That answer was horrible
+You are being horrible
+Your horrible
+You are horrible
+These responses are horrible
+These answers are horrible
+horrific
+That was horrific
+That was so horrific
+That response was horrific
+That answer was horrific
+You are being horrific
+You are horrific
+You're horrific
+These responses are horrific
+These answers are horrific
+it is bad
+it is too bad
+it's bad
+it's not good
+it's not so good
+it's really bad
+it's so bad
+it's too bad
+it's very bad
+no good
+not a good one
+not good
+not good enough
+not so good
+not too good
+oh that's not good
+pretty bad
+really bad
+so bad
+so lame
+terrible
+That was terrible
+That was so terrible
+That response was terrible
+That answer was terrible
+You are being terrible
+You are terrible
+You're terrible
+These responses are terrible
+These answers are terrible
+that is bad
+that was awful
+that was bad
+that was horrible
+that was lame
+that was not good
+that was terrible
+that's bad
+that's lame
+that's not good
+that's not good enough
+that's really bad
+that's terrible
+that's too bad
+this is bad
+this is not good
+this is too bad
+too bad
+very bad
+well too bad
+you're not helping me
+you are bad
+you're very bad
+you're really bad
+you are useless
+you are horrible
+you are a waste of time
+you are disgusting
+you are lame
+you are no good
+you're bad
+you're awful
+you are not cool
+you are not good
+you are so bad
+you are so useless
+you are terrible
+you are totally useless
+you are very bad
+you are waste
+you're a bad
+you're not a good
+you're not very good
+you're terrible
+you're the worst
+you're the worst ever
+you're worthless
+You are very bad
+You are very lame
+You are very useless
+You are very horrible
+I think you are bad
+I think you are very bad
+I think you are useless
+I think you are very useless
+I think you are lame
+I think you are very lame
+I think you are a waste of space
+I think you are a huge waste of space
+
+
+
+<Response>
+Oh no. Hope it's not too bad.
+I'm sorry. Please let me know if I can help in some way.

@@ -1,0 +1,91 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Default Welcome
+------------------------
+Heg
+Hej
+Heyo
+Hola
+I greet you
+Howdy partner
+a good day
+Good morning
+Good afternoon
+Good evening
+Hey there parky
+greetings
+hello
+hello again
+hello hi
+hello there
+hey
+hey there
+heya
+hi
+hi dear
+hi there
+howdy
+just going to say hi
+long time no see
+lovely day isn't it
+Good day to you
+Good morning to you
+Good evening to you
+what is on your mind
+what's happened
+what is up
+what's up
+What's up bro
+What's up dog
+What's up dude
+What's up my guy
+What's up today
+How's it going
+How's it going today
+whazzup
+good what's up
+I said what's up
+then what's up
+what's shaking
+wassup
+what is going on
+what is happening
+what's cracking
+what's cooking
+What's good
+What's going on
+hey what's up
+what's up today
+Hey what's up
+Hey what's going on
+Hey what's good
+Hey what's cooking
+Hey what's happening
+Hey what's cracking
+Hey how's its going
+
+
+
+
+<Response>
+Good day!
+Good day! What can I do for you today?
+Greetings! How can I assist?
+Hej
+Hello, how are you?
+Hello! How can I help you?
+Hey
+Hi there
+Hi! How are you doing?
+Howdy.

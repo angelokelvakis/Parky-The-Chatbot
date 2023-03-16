@@ -1,0 +1,42 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Random Cat
+------------------------
+Cat?
+Can I have a random cat?
+Can I have the name of a random cat
+Can I get the name of a random cat
+Can you give me the name of a cat
+Can you give me the name of a random cat
+Please give me a random cat
+Please give me a cat
+Please give me the name of a random cat
+Please give me the name of a cat
+Can I have a cat?
+Random cat
+Give me a random cat name
+Cat random
+Can you give me a random cat
+Random cat please
+Tell me the name of a random cat
+Can you tell me the name of a random cat
+You should tell me the name of a random cat
+You should give me the name of a random cat
+
+
+
+<Response>
+Tabby cat
+American Bobtail Cat
+Tonkinese Cat

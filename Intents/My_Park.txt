@@ -1,0 +1,113 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+
+
+
+My Park
+------------------------
+Whats my park 
+What is my park
+What is my park again
+What's the name of my park
+Tell me what my park is
+I forgot what I set my park as
+Can you please remind me what the name of my park is
+Can you tell me what my park is called
+Give me the name of my park
+My park
+My park name
+What did I tell you my park was
+I forgot the name of my park
+What did I select my park as
+What did I pick my park as
+What did I choose for my park 
+What did I select for my park
+What did I pick for my park
+Remind me what my park is
+Remind me what I set my park to
+Remind me what I chose as my park
+Remind me what I picked for my park
+What location did I select for my park
+What location did I set as my park
+What location did I choose for my park
+What location did I pick for my park
+What location have I chosen as my park
+What location is my park
+What park did I select for my park
+What park did I set my park to
+What park did I set my park as
+What park did I choose for my park
+What park did I pick for my park
+
+
+
+
+<Response>
+You picked: $my_park as your park
+
+
+
+My Park Activities General
+------------------------
+What can I do at my park
+What can I attend at my park
+What can I do at my park now
+What can I do at my park today
+What can I do at my park right now
+What events are available at my park
+What events can I go to at my park
+What events are there at my park
+What events does my park offer
+What events does my park have
+What events are happening at my park today
+What events can I attend at my park
+What events can I go to at my park
+What activities are available at my park
+What activities can I go to at my park
+What activities are there at my park
+What activities does my park offer
+What activities does my park have
+What activities are happening at my park
+What activities can I attend at my park
+What activities can I go to at my park
+What sports are happening at my park
+What things are happening at my park
+Whats happening at my park today
+Are there any open activities at my park
+Are there any open events at my park
+Tell me what I should do at my park
+Give me a list of activities happening at my park
+Give me a list of things I can do at my park
+Give me a list of events I can attend at my park
+Give me a list of events at my park
+Give me a list of activities at my park
+Give me a list of things at my park
+Can I do anything at my park
+Is there anything I can do at my park
+Is there a good event at my park
+Is there a good activity at my park
+Is there a good thing to do at my park
+I want to do something right now at my park
+My park activities
+My park events
+My park things
+My park list of activities
+My park list of events
+My park list of things
+
+
+
+
+<Response>
+Heres a list of things you can do:
+
+

@@ -1,0 +1,866 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+
+
+
+Parks Where
+------------------------
+what activities are happening at 63rd Street Beach
+what activities are happening at Abbott Park
+what activities are happening at Ada Park
+what activities are happening at Adams Playground Park
+what activities are happening at Addams Park
+what activities are happening at Administration Building
+what activities are happening at Altgeld Park
+what activities are happening at Amundsen Park
+what activities are happening at Anderson Playground Park
+what activities are happening at Archer Park
+what activities are happening at Armour Square Park
+what activities are happening at Armstrong Park
+what activities are happening at Arrigo Park
+what activities are happening at Aspen Playlot Park
+what activities are happening at Athletic Field Park
+what activities are happening at Augusta Park
+what activities are happening at Austin Town Hall Park
+what activities are happening at Avalon Park
+what activities are happening at Avondale Gymnastics Center
+what activities are happening at Avondale Park
+what activities are happening at Back of the Yards Park
+what activities are happening at Barnard Playlot Park
+what activities are happening at Bartelme (Mary) Park
+what activities are happening at Bauler Playlot Park
+what activities are happening at Bell Park
+what activities are happening at Berger Park Cultural Center
+what activities are happening at Bessemer Park
+what activities are happening at Beverly Park
+what activities are happening at Big Marsh Park
+what activities are happening at Blackhawk Park
+what activities are happening at Blackwelder Park
+what activities are happening at Bogan Park
+what activities are happening at Boler (Roscoe Lee) Park
+what activities are happening at Bosley Playground Park
+what activities are happening at Bradley Park
+what activities are happening at Brainerd Park
+what activities are happening at Brands Park
+what activities are happening at Brighton Park
+what activities are happening at Broadway Armory Gymnastics Center
+what activities are happening at Broadway Armory Park
+what activities are happening at Bromann Playlot Park
+what activities are happening at Brooks Park
+what activities are happening at Brown Memorial Park
+what activities are happening at Buena Circle Playlot Park
+what activities are happening at Burnham Park
+what activities are happening at Burnside Park
+what activities are happening at Buttercup Playlot Park
+what activities are happening at California Park
+what activities are happening at Calumet Gymnastics Center
+what activities are happening at Calumet Park
+what activities are happening at Carver Park
+what activities are happening at Cedar Playlot Park
+what activities are happening at Chase Park
+what activities are happening at Chestnut Playlot Park
+what activities are happening at Chicago Women's Park and Gardens
+what activities are happening at Chippewa Park
+what activities are happening at Chopin Park
+what activities are happening at Churchill Field Playlot Park
+what activities are happening at Claremont Playlot Park
+what activities are happening at Clarendon Park Community Center
+what activities are happening at Clark (John) Park
+what activities are happening at Clark (Richard) Boathouse
+what activities are happening at Columbus Park
+what activities are happening at Commercial Club Playground
+what activities are happening at Cooper Park
+what activities are happening at Cornell Park
+what activities are happening at Cornell Square Park
+what activities are happening at Cragin Park
+what activities are happening at Crescent Park
+what activities are happening at Davis Square Park
+what activities are happening at Dawes Park
+what activities are happening at de Burgos (Julia) Park
+what activities are happening at Dean Playground Park
+what activities are happening at Dickinson Playlot Park
+what activities are happening at Don Nash Community Center
+what activities are happening at Donovan Playground Park
+what activities are happening at Dooley Playground Park
+what activities are happening at Douglass Park Cultural and Community Center
+what activities are happening at Dunbar Park
+what activities are happening at Dunham Park
+what activities are happening at Durkin Park
+what activities are happening at Dusable Park
+what activities are happening at Dvorak Park
+what activities are happening at Eckhart Park
+what activities are happening at Edgebrook Park
+what activities are happening at Edison Park
+what activities are happening at Ellis Park
+what activities are happening at Emmerson Park
+what activities are happening at Euclid Park
+what activities are happening at Eugene Field Park
+what activities are happening at Evergreen Playlot Park
+what activities are happening at Fernwood Park
+what activities are happening at Fosco Park
+what activities are happening at Foster Beach
+what activities are happening at Foster Park
+what activities are happening at Franklin Park
+what activities are happening at Fred Anderson Park
+what activities are happening at Fuller Park
+what activities are happening at Gage Park
+what activities are happening at Galewood Park
+what activities are happening at Garfield Gymnastics Center
+what activities are happening at Garfield Park
+what activities are happening at Garfield Park Conservatory
+what activities are happening at Gately Park
+what activities are happening at Gill Park
+what activities are happening at Gladstone Park
+what activities are happening at Gompers Park
+what activities are happening at Grand Crossing Park
+what activities are happening at Grandparents Playlot Park
+what activities are happening at Grant Park
+what activities are happening at Graver Park
+what activities are happening at Green Briar Park
+what activities are happening at Gross Park
+what activities are happening at Gwendolyn Brooks Park
+what activities are happening at Haas Park
+what activities are happening at Haines School Park
+what activities are happening at Hale Park
+what activities are happening at Hamilton Park
+what activities are happening at Hamlin Park
+what activities are happening at Harold Washington Playlot Park
+what activities are happening at Harris Park
+what activities are happening at Harrison Gymnastics Center
+what activities are happening at Harrison Park
+what activities are happening at Hasan Playlot Park
+what activities are happening at Hayes Park
+what activities are happening at Hermitage Park
+what activities are happening at Hermosa Park
+what activities are happening at Hiawatha Park
+what activities are happening at Hoard Playground Park
+what activities are happening at Holly Playlot Park
+what activities are happening at Hollywood Park
+what activities are happening at Holstein Park
+what activities are happening at Homan Square Park
+what activities are happening at Horner Park
+what activities are happening at Houston Playground Park
+what activities are happening at Howard Beach Park
+what activities are happening at Hoyne Playground Park
+what activities are happening at Humboldt Park
+what activities are happening at Independence Park
+what activities are happening at Indian Boundary Park and Cultural Center
+what activities are happening at Indian Road Park
+what activities are happening at Jackie Robinson Park
+what activities are happening at Jackson Park
+what activities are happening at Jackson Park Fieldhouse
+what activities are happening at Jacob Playlot Park
+what activities are happening at Jefferson Memorial Park
+what activities are happening at Jefferson Playlot Park
+what activities are happening at Jensen Park
+what activities are happening at Jesse White Gymnastics Center
+what activities are happening at Jesse White Park
+what activities are happening at Jonquil Playlot Park
+what activities are happening at Judd Goldman Community Sailing Center
+what activities are happening at Kedvale Park
+what activities are happening at Kelly Park
+what activities are happening at Kelvyn Park
+what activities are happening at Ken-Well Park
+what activities are happening at Kennedy Park
+what activities are happening at Kennicott Park
+what activities are happening at Kenwood Community Park
+what activities are happening at Kilbourn Park
+what activities are happening at Kosciuszko Park
+what activities are happening at Krause Playlot Park
+what activities are happening at La Follette Park
+what activities are happening at La Villita Park
+what activities are happening at Lake Meadows Park
+what activities are happening at Lake Shore Park
+what activities are happening at Langdon Playlot Park
+what activities are happening at Langley Playlot Park
+what activities are happening at Lawler Park
+what activities are happening at LeClaire-Hearst Park
+what activities are happening at Legion Park
+what activities are happening at Leland Giants Playlot Park
+what activities are happening at Lerner Playlot Park
+what activities are happening at Levin Park
+what activities are happening at Limas Playground Park
+what activities are happening at Lincoln Park
+what activities are happening at Lincoln Park Conservatory
+what activities are happening at Lincoln Park Cultural Center
+what activities are happening at Lindblom Park
+what activities are happening at Lowe Playground Park
+what activities are happening at Loyola Park
+what activities are happening at Madigan Park
+what activities are happening at Maggie Daley Park
+what activities are happening at Magnolia Playlot Park
+what activities are happening at Mamie Till-Mobley Park
+what activities are happening at Mandrake Park
+what activities are happening at Mann Park
+what activities are happening at Maplewood Playlot Park
+what activities are happening at Margate Park
+what activities are happening at Marquette Park
+what activities are happening at Marshfield Park
+what activities are happening at Mason Playlot Park
+what activities are happening at Matanky Playlot Park
+what activities are happening at Mather Park
+what activities are happening at Mayfair Park
+what activities are happening at McFetridge Sports Center
+what activities are happening at McGuane Park
+what activities are happening at McKiernan Playground Park
+what activities are happening at McKinley Gymnastics Center
+what activities are happening at McKinley Park
+what activities are happening at Memorial Playlot Park
+what activities are happening at Merrimac Park
+what activities are happening at Meyering Playground Park
+what activities are happening at Midway Plaisance Park
+what activities are happening at Minuteman Park
+what activities are happening at Moore Park
+what activities are happening at Moran Playground Park
+what activities are happening at Morgan Park Sports Center
+what activities are happening at Mozart Park
+what activities are happening at Mt. Greenwood Park
+what activities are happening at Munroe Park
+what activities are happening at Murray Playground Park
+what activities are happening at Nancy Jefferson Park
+what activities are happening at Nat King Cole Park
+what activities are happening at Nichols Park
+what activities are happening at Normandy Playground Park
+what activities are happening at North Park Village Nature Center
+what activities are happening at Northerly Island
+what activities are happening at Norwood Park
+what activities are happening at O'Hallaren Park
+what activities are happening at Oakdale Park
+what activities are happening at Oakwood Beach
+what activities are happening at Ogden Park
+what activities are happening at Ohio and Harding Park
+what activities are happening at Olympia Park
+what activities are happening at Oriole Park
+what activities are happening at Owens Park
+what activities are happening at Oz Park
+what activities are happening at Palmer Park
+what activities are happening at Palmer Square Park
+what activities are happening at Palmisano Park
+what activities are happening at Park No. 500
+what activities are happening at Park No. 534
+what activities are happening at Park No. 567
+what activities are happening at Park No. 568 - West Ridge Nature Preserve
+what activities are happening at Park No. 571 - Eleanor Boathouse
+what activities are happening at Park No. 578
+what activities are happening at Park No. 584
+what activities are happening at Park No. 595
+what activities are happening at Parkview Playlot Park
+what activities are happening at Paschen Park
+what activities are happening at Pasteur Park
+what activities are happening at Pendleton Playlot Park
+what activities are happening at Peterson Gymnastics Center
+what activities are happening at Peterson Park
+what activities are happening at Ping Tom Memorial Park
+what activities are happening at Piotrowski Park
+what activities are happening at Portage Park
+what activities are happening at Pottawattomie Park
+what activities are happening at Promontory Point
+what activities are happening at Pulaski Park
+what activities are happening at Pullman Playlot Park
+what activities are happening at Rainbow Beach & Park
+what activities are happening at Rainey Park
+what activities are happening at Ravenswood Manor Playlot Park
+what activities are happening at Renaissance Park
+what activities are happening at Ridge Park
+what activities are happening at Riis Park
+what activities are happening at River Park
+what activities are happening at Roberts Square Playlot Park
+what activities are happening at Robichaux Park
+what activities are happening at Rogers Park
+what activities are happening at Ronan Park
+what activities are happening at Rosedale Park
+what activities are happening at Rosenblum Park
+what activities are happening at Rowan Park
+what activities are happening at Russell Square Park
+what activities are happening at Rutherford Sayre Park
+what activities are happening at Sauganash Park
+what activities are happening at Schafer Park
+what activities are happening at Schreiber Playground Park
+what activities are happening at Scottsdale Playground Park
+what activities are happening at Senior Citizens Memorial Playlot Park
+what activities are happening at Senka Park
+what activities are happening at Senn Playlot Park
+what activities are happening at Seward Park
+what activities are happening at Shabbona Gymnastics Center
+what activities are happening at Shabbona Park
+what activities are happening at Shedd Park
+what activities are happening at Sheil Park
+what activities are happening at Sheridan Park
+what activities are happening at Sherman Park
+what activities are happening at Sherwood Park
+what activities are happening at Simons Park
+what activities are happening at Skinner Park
+what activities are happening at Smith (Joseph Higgins) Park
+what activities are happening at Smith (Wendell) Playlot Park
+what activities are happening at Soldier Field
+what activities are happening at South Shore Cultural Center
+what activities are happening at South Shore Cultural Center SEV
+what activities are happening at Stanton Park
+what activities are happening at Stars and Stripes Playground Park
+what activities are happening at Steelworkers Park
+what activities are happening at Strohacker Park
+what activities are happening at Sumner Park
+what activities are happening at Tarkington Park
+what activities are happening at Taylor Park
+what activities are happening at Taylor-Lauridsen Playground Park
+what activities are happening at The 606 - Bloomingdale Trail
+what activities are happening at The Park at NTA
+what activities are happening at Tilton Park
+what activities are happening at Touhy Park
+what activities are happening at Trebes Park
+what activities are happening at Triangle Park
+what activities are happening at Trumbull Park
+what activities are happening at Tuley Park
+what activities are happening at Union Park
+what activities are happening at Unity Playlot Park
+what activities are happening at Valley Forge Park
+what activities are happening at Veteran's Memorial Park
+what activities are happening at Vittum Park
+what activities are happening at Wallace Playground Park
+what activities are happening at Walsh Playground Park
+what activities are happening at Ward (A. Montgomery) Park
+what activities are happening at Warren Park
+what activities are happening at Washington Park
+what activities are happening at Washington Park Refectory
+what activities are happening at Washington Square Park
+what activities are happening at Washtenaw Park
+what activities are happening at Welles Park
+what activities are happening at Wentworth Gardens Park
+what activities are happening at Wentworth Park
+what activities are happening at West Chatham Park
+what activities are happening at West Lawn Park
+what activities are happening at West Pullman Park
+what activities are happening at Western Park
+what activities are happening at White (Edward H.) Park
+what activities are happening at White (Willye B.) Park
+what activities are happening at Wicker Park
+what activities are happening at Wildwood Park
+what activities are happening at Williams Park
+what activities are happening at Williams-Davis Park
+what activities are happening at Wilson (Frank J.) Park
+what activities are happening at Wilson (John P.) Park
+what activities are happening at Wilson Community Center Park
+what activities are happening at Winnemac Park
+what activities are happening at Wolfe Playground Park
+what activities are happening at Woodhull Playground Park
+what activities are happening at Wrightwood Park
+what can I do at 63rd Street Beach
+what can I do at Abbott Park
+what can I do at Ada Park
+what can I do at Adams Playground Park
+what can I do at Addams Park
+what can I do at Administration Building
+what can I do at Altgeld Park
+what can I do at Amundsen Park
+what can I do at Anderson Playground Park
+what can I do at Archer Park
+what can I do at Armour Square Park
+what can I do at Armstrong Park
+what can I do at Arrigo Park
+what can I do at Aspen Playlot Park
+what can I do at Athletic Field Park
+what can I do at Augusta Park
+what can I do at Austin Town Hall Park
+what can I do at Avalon Park
+what can I do at Avondale Gymnastics Center
+what can I do at Avondale Park
+what can I do at Back of the Yards Park
+what can I do at Barnard Playlot Park
+what can I do at Bartelme (Mary) Park
+what can I do at Bauler Playlot Park
+what can I do at Bell Park
+what can I do at Berger Park Cultural Center
+what can I do at Bessemer Park
+what can I do at Beverly Park
+what can I do at Big Marsh Park
+what can I do at Blackhawk Park
+what can I do at Blackwelder Park
+what can I do at Bogan Park
+what can I do at Boler (Roscoe Lee) Park
+what can I do at Bosley Playground Park
+what can I do at Bradley Park
+what can I do at Brainerd Park
+what can I do at Brands Park
+what can I do at Brighton Park
+what can I do at Broadway Armory Gymnastics Center
+what can I do at Broadway Armory Park
+what can I do at Bromann Playlot Park
+what can I do at Brooks Park
+what can I do at Brown Memorial Park
+what can I do at Buena Circle Playlot Park
+what can I do at Burnham Park
+what can I do at Burnside Park
+what can I do at Buttercup Playlot Park
+what can I do at California Park
+what can I do at Calumet Gymnastics Center
+what can I do at Calumet Park
+what can I do at Carver Park
+what can I do at Cedar Playlot Park
+what can I do at Chase Park
+what can I do at Chestnut Playlot Park
+what can I do at Chicago Women's Park and Gardens
+what can I do at Chippewa Park
+what can I do at Chopin Park
+what can I do at Churchill Field Playlot Park
+what can I do at Claremont Playlot Park
+what can I do at Clarendon Park Community Center
+what can I do at Clark (John) Park
+what can I do at Clark (Richard) Boathouse
+what can I do at Columbus Park
+what can I do at Commercial Club Playground
+what can I do at Cooper Park
+what can I do at Cornell Park
+what can I do at Cornell Square Park
+what can I do at Cragin Park
+what can I do at Crescent Park
+what can I do at Davis Square Park
+what can I do at Dawes Park
+what can I do at de Burgos (Julia) Park
+what can I do at Dean Playground Park
+what can I do at Dickinson Playlot Park
+what can I do at Don Nash Community Center
+what can I do at Donovan Playground Park
+what can I do at Dooley Playground Park
+what can I do at Douglass Park Cultural and Community Center
+what can I do at Dunbar Park
+what can I do at Dunham Park
+what can I do at Durkin Park
+what can I do at Dusable Park
+what can I do at Dvorak Park
+what can I do at Eckhart Park
+what can I do at Edgebrook Park
+what can I do at Edison Park
+what can I do at Ellis Park
+what can I do at Emmerson Park
+what can I do at Euclid Park
+what can I do at Eugene Field Park
+what can I do at Evergreen Playlot Park
+what can I do at Fernwood Park
+what can I do at Fosco Park
+what can I do at Foster Beach
+what can I do at Foster Park
+what can I do at Franklin Park
+what can I do at Fred Anderson Park
+what can I do at Fuller Park
+what can I do at Gage Park
+what can I do at Galewood Park
+what can I do at Garfield Gymnastics Center
+what can I do at Garfield Park
+what can I do at Garfield Park Conservatory
+what can I do at Gately Park
+what can I do at Gill Park
+what can I do at Gladstone Park
+what can I do at Gompers Park
+what can I do at Grand Crossing Park
+what can I do at Grandparents Playlot Park
+what can I do at Grant Park
+what can I do at Graver Park
+what can I do at Green Briar Park
+what can I do at Gross Park
+what can I do at Gwendolyn Brooks Park
+what can I do at Haas Park
+what can I do at Haines School Park
+what can I do at Hale Park
+what can I do at Hamilton Park
+what can I do at Hamlin Park
+what can I do at Harold Washington Playlot Park
+what can I do at Harris Park
+what can I do at Harrison Gymnastics Center
+what can I do at Harrison Park
+what can I do at Hasan Playlot Park
+what can I do at Hayes Park
+what can I do at Hermitage Park
+what can I do at Hermosa Park
+what can I do at Hiawatha Park
+what can I do at Hoard Playground Park
+what can I do at Holly Playlot Park
+what can I do at Hollywood Park
+what can I do at Holstein Park
+what can I do at Homan Square Park
+what can I do at Horner Park
+what can I do at Houston Playground Park
+what can I do at Howard Beach Park
+what can I do at Hoyne Playground Park
+what can I do at Humboldt Park
+what can I do at Independence Park
+what can I do at Indian Boundary Park and Cultural Center
+what can I do at Indian Road Park
+what can I do at Jackie Robinson Park
+what can I do at Jackson Park
+what can I do at Jackson Park Fieldhouse
+what can I do at Jacob Playlot Park
+what can I do at Jefferson Memorial Park
+what can I do at Jefferson Playlot Park
+what can I do at Jensen Park
+what can I do at Jesse White Gymnastics Center
+what can I do at Jesse White Park
+what can I do at Jonquil Playlot Park
+what can I do at Judd Goldman Community Sailing Center
+what can I do at Kedvale Park
+what can I do at Kelly Park
+what can I do at Kelvyn Park
+what can I do at Ken-Well Park
+what can I do at Kennedy Park
+what can I do at Kennicott Park
+what can I do at Kenwood Community Park
+what can I do at Kilbourn Park
+what can I do at Kosciuszko Park
+what can I do at Krause Playlot Park
+what can I do at La Follette Park
+what can I do at La Villita Park
+what can I do at Lake Meadows Park
+what can I do at Lake Shore Park
+what can I do at Langdon Playlot Park
+what can I do at Langley Playlot Park
+what can I do at Lawler Park
+what can I do at LeClaire-Hearst Park
+what can I do at Legion Park
+what can I do at Leland Giants Playlot Park
+what can I do at Lerner Playlot Park
+what can I do at Levin Park
+what can I do at Limas Playground Park
+what can I do at Lincoln Park
+what can I do at Lincoln Park Conservatory
+what can I do at Lincoln Park Cultural Center
+what can I do at Lindblom Park
+what can I do at Lowe Playground Park
+what can I do at Loyola Park
+what can I do at Madigan Park
+what can I do at Maggie Daley Park
+what can I do at Magnolia Playlot Park
+what can I do at Mamie Till-Mobley Park
+what can I do at Mandrake Park
+what can I do at Mann Park
+what can I do at Maplewood Playlot Park
+what can I do at Margate Park
+what can I do at Marquette Park
+what can I do at Marshfield Park
+what can I do at Mason Playlot Park
+what can I do at Matanky Playlot Park
+what can I do at Mather Park
+what can I do at Mayfair Park
+what can I do at McFetridge Sports Center
+what can I do at McGuane Park
+what can I do at McKiernan Playground Park
+what can I do at McKinley Gymnastics Center
+what can I do at McKinley Park
+what can I do at Memorial Playlot Park
+what can I do at Merrimac Park
+what can I do at Meyering Playground Park
+what can I do at Midway Plaisance Park
+what can I do at Minuteman Park
+what can I do at Moore Park
+what can I do at Moran Playground Park
+what can I do at Morgan Park Sports Center
+what can I do at Mozart Park
+what can I do at Mt. Greenwood Park
+what can I do at Munroe Park
+what can I do at Murray Playground Park
+what can I do at Nancy Jefferson Park
+what can I do at Nat King Cole Park
+what can I do at Nichols Park
+what can I do at Normandy Playground Park
+what can I do at North Park Village Nature Center
+what can I do at Northerly Island
+what can I do at Norwood Park
+what can I do at O'Hallaren Park
+what can I do at Oakdale Park
+what can I do at Oakwood Beach
+what can I do at Ogden Park
+what can I do at Ohio and Harding Park
+what can I do at Olympia Park
+what can I do at Oriole Park
+what can I do at Owens Park
+what can I do at Oz Park
+what can I do at Palmer Park
+what can I do at Palmer Square Park
+what can I do at Palmisano Park
+what can I do at Park No. 500
+what can I do at Park No. 534
+what can I do at Park No. 567
+what can I do at Park No. 568 - West Ridge Nature Preserve
+what can I do at Park No. 571 - Eleanor Boathouse
+what can I do at Park No. 578
+what can I do at Park No. 584
+what can I do at Park No. 595
+what can I do at Parkview Playlot Park
+what can I do at Paschen Park
+what can I do at Pasteur Park
+what can I do at Pendleton Playlot Park
+what can I do at Peterson Gymnastics Center
+what can I do at Peterson Park
+what can I do at Ping Tom Memorial Park
+what can I do at Piotrowski Park
+what can I do at Portage Park
+what can I do at Pottawattomie Park
+what can I do at Promontory Point
+what can I do at Pulaski Park
+what can I do at Pullman Playlot Park
+what can I do at Rainbow Beach & Park
+what can I do at Rainey Park
+what can I do at Ravenswood Manor Playlot Park
+what can I do at Renaissance Park
+what can I do at Ridge Park
+what can I do at Riis Park
+what can I do at River Park
+what can I do at Roberts Square Playlot Park
+what can I do at Robichaux Park
+what can I do at Rogers Park
+what can I do at Ronan Park
+what can I do at Rosedale Park
+what can I do at Rosenblum Park
+what can I do at Rowan Park
+what can I do at Russell Square Park
+what can I do at Rutherford Sayre Park
+what can I do at Sauganash Park
+what can I do at Schafer Park
+what can I do at Schreiber Playground Park
+what can I do at Scottsdale Playground Park
+what can I do at Senior Citizens Memorial Playlot Park
+what can I do at Senka Park
+what can I do at Senn Playlot Park
+what can I do at Seward Park
+what can I do at Shabbona Gymnastics Center
+what can I do at Shabbona Park
+what can I do at Shedd Park
+what can I do at Sheil Park
+what can I do at Sheridan Park
+what can I do at Sherman Park
+what can I do at Sherwood Park
+what can I do at Simons Park
+what can I do at Skinner Park
+what can I do at Smith (Joseph Higgins) Park
+what can I do at Smith (Wendell) Playlot Park
+what can I do at Soldier Field
+what can I do at South Shore Cultural Center
+what can I do at South Shore Cultural Center SEV
+what can I do at Stanton Park
+what can I do at Stars and Stripes Playground Park
+what can I do at Steelworkers Park
+what can I do at Strohacker Park
+what can I do at Sumner Park
+what can I do at Tarkington Park
+what can I do at Taylor Park
+what can I do at Taylor-Lauridsen Playground Park
+what can I do at The 606 - Bloomingdale Trail
+what can I do at The Park at NTA
+what can I do at Tilton Park
+what can I do at Touhy Park
+what can I do at Trebes Park
+what can I do at Triangle Park
+what can I do at Trumbull Park
+what can I do at Tuley Park
+what can I do at Union Park
+what can I do at Unity Playlot Park
+what can I do at Valley Forge Park
+what can I do at Veteran's Memorial Park
+what can I do at Vittum Park
+what can I do at Wallace Playground Park
+what can I do at Walsh Playground Park
+what can I do at Ward (A. Montgomery) Park
+what can I do at Warren Park
+what can I do at Washington Park
+what can I do at Washington Park Refectory
+what can I do at Washington Square Park
+what can I do at Washtenaw Park
+what can I do at Welles Park
+what can I do at Wentworth Gardens Park
+what can I do at Wentworth Park
+what can I do at West Chatham Park
+what can I do at West Lawn Park
+what can I do at West Pullman Park
+what can I do at Western Park
+what can I do at White (Edward H.) Park
+what can I do at White (Willye B.) Park
+what can I do at Wicker Park
+what can I do at Wildwood Park
+what can I do at Williams Park
+what can I do at Williams-Davis Park
+what can I do at Wilson (Frank J.) Park
+what can I do at Wilson (John P.) Park
+what can I do at Wilson Community Center Park
+what can I do at Winnemac Park
+what can I do at Wolfe Playground Park
+what can I do at Woodhull Playground Park
+what can I do at Wrightwood Park
+
+
+<Response>
+Here are all of the things you can do at that park:
+
+
+
+
+
+
+Parks Where Neighborhood
+------------------------
+what I can do in Albany Park
+what I can do in Archer Heights
+what I can do in Armour Square
+what I can do in Ashburn
+what I can do in Auburn Gresham
+what I can do in Austin
+what I can do in Avalon Park
+what I can do in Avondale
+what I can do in Belmont-Cragin
+what I can do in Beverly
+what I can do in Bridgeport
+what I can do in Brighton Park
+what I can do in Burnside
+what I can do in Calumet Heights
+what I can do in Chatham
+what I can do in Chicago Lawn
+what I can do in Clearing
+what I can do in Douglas
+what I can do in Dunning
+what I can do in East Garfield Park
+what I can do in East Side
+what I can do in Edgewater
+what I can do in Edison Park
+what I can do in Englewood
+what I can do in Forest Glen
+what I can do in Fuller Park
+what I can do in Gage Park
+what I can do in Garfield Ridge
+what I can do in Grand Boulevard
+what I can do in Greater Grand Crossing
+what I can do in Hegewisch
+what I can do in Hermosa
+what I can do in Humboldt Park
+what I can do in Hyde Park
+what I can do in Irving Park
+what I can do in Jefferson Park
+what I can do in Kenwood
+what I can do in Lakeview
+what I can do in Lincoln Park
+what I can do in Lincoln Square
+what I can do in Logan Square
+what I can do in Loop
+what I can do in Lower West Side
+what I can do in McKinley Park
+what I can do in Montclare
+what I can do in Morgan Park
+what I can do in Mount Greenwood
+what I can do in Near North Side
+what I can do in Near South Side
+what I can do in Near West Side
+what I can do in New City
+what I can do in North Center
+what I can do in North Lawndale
+what I can do in North Park
+what I can do in Norwood Park
+what I can do in O'Hare
+what I can do in Oakland
+what I can do in Portage Park
+what I can do in Pullman
+what I can do in Riverdale
+what I can do in Rogers Park
+what I can do in Roseland
+what I can do in South Chicago
+what I can do in South Deering
+what I can do in South Lawndale
+what I can do in South Shore
+what I can do in Uptown
+what I can do in Washington Heights
+what I can do in Washington Park
+what I can do in West Elsdon
+what I can do in West Englewood
+what I can do in West Garfield Park
+what I can do in West Lawn
+what I can do in West Pullman
+what I can do in West Ridge
+what I can do in West Town
+what I can do in Woodlawn
+what activities are available in Albany Park
+what activities are available in Archer Heights
+what activities are available in Armour Square
+what activities are available in Ashburn
+what activities are available in Auburn Gresham
+what activities are available in Austin
+what activities are available in Avalon Park
+what activities are available in Avondale
+what activities are available in Belmont-Cragin
+what activities are available in Beverly
+what activities are available in Bridgeport
+what activities are available in Brighton Park
+what activities are available in Burnside
+what activities are available in Calumet Heights
+what activities are available in Chatham
+what activities are available in Chicago Lawn
+what activities are available in Clearing
+what activities are available in Douglas
+what activities are available in Dunning
+what activities are available in East Garfield Park
+what activities are available in East Side
+what activities are available in Edgewater
+what activities are available in Edison Park
+what activities are available in Englewood
+what activities are available in Forest Glen
+what activities are available in Fuller Park
+what activities are available in Gage Park
+what activities are available in Garfield Ridge
+what activities are available in Grand Boulevard
+what activities are available in Greater Grand Crossing
+what activities are available in Hegewisch
+what activities are available in Hermosa
+what activities are available in Humboldt Park
+what activities are available in Hyde Park
+what activities are available in Irving Park
+what activities are available in Jefferson Park
+what activities are available in Kenwood
+what activities are available in Lakeview
+what activities are available in Lincoln Park
+what activities are available in Lincoln Square
+what activities are available in Logan Square
+what activities are available in Loop
+what activities are available in Lower West Side
+what activities are available in McKinley Park
+what activities are available in Montclare
+what activities are available in Morgan Park
+what activities are available in Mount Greenwood
+what activities are available in Near North Side
+what activities are available in Near South Side
+what activities are available in Near West Side
+what activities are available in New City
+what activities are available in North Center
+what activities are available in North Lawndale
+what activities are available in North Park
+what activities are available in Norwood Park
+what activities are available in O'Hare
+what activities are available in Oakland
+what activities are available in Portage Park
+what activities are available in Pullman
+what activities are available in Riverdale
+what activities are available in Rogers Park
+what activities are available in Roseland
+what activities are available in South Chicago
+what activities are available in South Deering
+what activities are available in South Lawndale
+what activities are available in South Shore
+what activities are available in Uptown
+what activities are available in Washington Heights
+what activities are available in Washington Park
+what activities are available in West Elsdon
+what activities are available in West Englewood
+what activities are available in West Garfield Park
+what activities are available in West Lawn
+what activities are available in West Pullman
+what activities are available in West Ridge
+what activities are available in West Town
+what activities are available in Woodlawn
+
+
+
+<Response>
+Here is a list of activities you can do in that neighborhood:
+

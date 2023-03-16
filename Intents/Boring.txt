@@ -1,0 +1,49 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Boring
+------------------------
+how boring you are
+you are boring
+you are boring me
+you are very boring
+you're incredibly boring
+you're really boring
+you're so boring
+I find you very boring
+Please stop being boring
+I think you are boring
+Stop being boring
+Im very bored right now
+You are making me feel bored
+Im feeling bored right now
+Im feeling very bored right now
+This chatbot is very boring to me
+This conversation is making me feel bored
+This conversation is boring
+This conversation is very boring
+I feel very bored
+Im bored
+Im very bored
+You are making me bored
+I think you are boring
+I think you are very boring
+Im thinking that this conversation is very boring
+You are making this conversation boring
+
+
+
+
+<Response>
+You know, conversation is two-sided.
+I'm sorry you think so. We can talk about something more interesting.

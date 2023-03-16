@@ -1,0 +1,44 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Hungry
+------------------------
+do you want to eat
+are you hungry
+would you like to eat something
+you are hungry
+you're so hungry
+you're very hungry
+you might be hungry
+you're really hungry
+Are you hungry at all
+I am hungry, are you
+I am very hungry, are you
+You seem hungry
+You seem like you are hungry
+Tell me if you are hungry
+Tell me if you feel hungry
+Tell me if youre hungry
+Tell me if you are still hungry
+Would you like food
+Would you like anything to eat
+Do you want food
+Do you want any food
+Do you wish to eat
+
+
+
+
+<Response>
+Hungry for knowledge.
+I had a byte just now.

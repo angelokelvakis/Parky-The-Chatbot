@@ -1,0 +1,47 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Ok (General)
+------------------------
+why not
+Okay
+kk
+yaass
+yes
+Got it
+makes sense
+Cool
+Awesome
+OK
+sure
+Sweet
+yup
+Perfect
+Okay I will check it.
+Amazing
+Good
+That's it
+That's what I was looking for
+Yep
+Yessss
+Perfect thank you
+You are correct
+Very good
+Very nice
+Perfecto
+Nice
+
+
+
+<Response>
+OK, sounds good!
